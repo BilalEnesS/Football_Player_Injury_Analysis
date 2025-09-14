@@ -1,4 +1,4 @@
-# 🏥 Premier League Player Injury Analysis
+# 🏥 Football Player Injury Analysis
 
 A comprehensive data science project that scrapes player injury data from Transfermarkt and performs machine learning analysis to predict injury duration.
 
