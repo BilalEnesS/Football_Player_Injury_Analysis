@@ -25,9 +25,7 @@ A comprehensive data science project that scrapes player injury data from Transf
 ```
 player_injury/
 ├── Player_Injury.ipynb          # Main analysis notebook
-├── main.py                      # Web scraping script
-├── premier_league_scraper.py    # Team/player scraper
-├── merge.py                     # Dataset merger
+├── main.py                      # Web scraping script                    
 └── injury_dataset_extended.csv  # Main dataset (1300+ records)
 ```
 
