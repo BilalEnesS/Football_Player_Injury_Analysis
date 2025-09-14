@@ -1,0 +1,36 @@
+# Ara dataset dosyaları (sadece ana dataset'i tutuyoruz)
+injury_dataset_all.csv
+injury_dataset_tr.csv
+injury_dataset.csv
+injury_dataset30.csv
+
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Log dosyaları
+*.log
+
+# Geçici dosyalar
+*.tmp
+*.temp
